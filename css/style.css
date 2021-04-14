@@ -505,6 +505,6 @@ h3 {
 
 @media (max-width: 1024px) {
   .nav-open .nav {
-    transform: translateX(63%);
+    transform: translateX(55%);
   }
 }
